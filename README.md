@@ -2,7 +2,7 @@
 Project part of Udacity’s Data Scientist Nanodegree
 
 ## Project Overview
-In this project, interactions that users have with articles on the IBM Watson Studio Platform are analyzed, and recommendations are made to users about other articles they might like.
+In this project, interactions that users have with articles on the IBM Watson Studio Platform are analysed, and recommendations are made to users about other articles they might like.
 
 ## Installations
 Reguired installations:
